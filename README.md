@@ -28,7 +28,7 @@ Zakładał on stworzenie dynamicznej symulacji odwzorowującej zachowanie cieczy
 
 
 
-## Installation
+## Instalacja
 
 Aby uruchomić projekt, będziesz potrzebować środowiska `Unity`. Możesz je pobrać pod tym adresem: [Download](https://unity.com/download)
 
